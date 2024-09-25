@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow  # or pytorch
+scipy
+statsmodels
+nbformat
+ipywidgets
+requests
+flask  # or fastapi
+docker
+streamlit  # or dash
+sphinx  # or mkdocs
