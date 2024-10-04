@@ -9,8 +9,9 @@ from tensorflow.keras.layers import Dense, Conv1D, Flatten, Dropout
 from tensorflow.keras.callbacks import EarlyStopping
 from sklearn.metrics import mean_squared_error, r2_score
 
-# Load the dataset (replace 'path_to_your_dataset.csv' with the actual file path)
-data = pd.read_csv('path_to_your_dataset.csv')
+
+data = pd.read_csv('.csv')
+# use your exported dataset, fill in the location above
 
 # Display initial dataset details
 print("Dataset Head:")
