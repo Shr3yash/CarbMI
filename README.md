@@ -25,9 +25,9 @@ The dataset utilized in this project comprises details about participants, which
 - **BMI**: The Body Mass Index for each participant.
 - **Carbohydrate Intake**: The quantity of carbohydrates ingested prior to training sessions.
 - **Training Duration**: How long the training lasts.
-- **Additional Variables**: ## Data Parameters
-
-- VO2 Max
+- **Additional Variables**:
+## Data Parameters
+-  [VO2 Max](https://github.com/Shr3yash/CarbMI/tree/main/data-collected/PerformanceMetrics/VO2_max)
 - Resting Heart Rate (RHR)
 - Heart Rate Variability (HRV)
 - Blood Lactate Threshold
