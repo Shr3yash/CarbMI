@@ -1,1 +1,0 @@
-CarbMI is a project which incorporates Machine Learning into exploring the interaction between human BMI (Body Mass Index), Complex Carbohydrates' & Simple Carbohydrates' intake and training performance. 
