@@ -1,6 +1,6 @@
 ## VO2 Max
 
-**VO2 max**, or maximum oxygen uptake, is a key measure of cardiovascular fitness and aerobic endurance. It indicates the maximum amount of oxygen the body can utilize during intense exercise, measured in milliliters of oxygen consumed per minute per kilogram of body weight (ml/min/kg).
+**VO2 max**, or maximum oxygen intake, is a key measure of cardiovascular fitness and aerobic endurance. It indicates the maximum amount of oxygen the body can utilize during intense exercise, measured in milliliters of oxygen consumed per minute per kilogram of body weight (ml/min/kg).
 
 ### Importance of VO2 Max
 - **Cardiovascular Fitness**: Higher VO2 max values reflect better oxygen delivery and utilization, crucial for sustained physical activity.
