@@ -1,4 +1,4 @@
-# Machine Learning Project: Effects of Carbohydrate Ingestion on Workout, Weight Training and Physical performance. 
+# Deep Learning Project: Effects of Carbohydrate Ingestion on Workout, Weight Training and Physical performance. 
 
 ## Table of Contents
 - [Introduction](#introduction)
